@@ -1,4 +1,4 @@
-# TRAINING
+# TRAINING AND INTERNSHIP PROGRAMME
 All about the 6 month training and internship
 # *Installation of the linux*
 Today I made a bootable usb drive by downloading the Linux ubuntu  ISO in that and the running it on my machine (laptop)

@@ -52,7 +52,18 @@ Exams time Infosys and company exam was there prepared DS for the same
 Again sat on the mentor mentee project and made some sugestions usefull or not deepak woould know that, went home early
 
 ##  :arrow_right: * DAY 26
-Charts a topic that is a task of its kind, hard to understand but beautiful to look.
+Charts a topic that is a task of its kind, hard to understand but beautiful to look was given under the domain of the quadreatic equation,
+I again made a quaratic equation but this time tried to make the web page for the same so that guest can come and make his calculations easily
+
+##  :arrow_right: * DAY 27,28 
+The task took too many attempt but was not able to meet the requirements such as the values must not be stored in the data base but the issue was that the thing that i could understand from the charts is make the graphical representation from the data stored in the data base
+##  :arrow_right: * Next Week
+ This whole weak droped the work of the quadratic equation as  the primary task I could suspect that was the fee structure of the NSPS gill that was to be delievered to the school. The students were uploaded and the work begine it took some days to figure out how to make the structure for the fees and how to render the discounts to the students based on the data that was delievered to us by the school itself, for this very reason as suggested by Sir I asked the EPR forum for the help but by the time could notice that many other people need that same discount thing; this was one attempt, the other was to replicate the discount structure as that of the sales invoice so tries to make that also much was done but the working was not as the way we expected it to be, so we fall backed to the original idea to make seperate structres for the different group of student.
+ ##  :arrow_right: * Day 6
+ Today we completed the fees work upto the was we were able to do then now the task assigned to me was to make the system to take payment of the fee form teh students form the differnt modes and show the same to the accounts sections. This work required the API keys and should be done throught the razorpay so Prof. Satinder Sir gave that keys and inintiated the work. Before doing this I  thought to see wheather the manuall fee payment was able to show in the accounts ledgure or not. This was the time I understood that account is not that easy game. The 1000 rupees payment which was made lost in the ERP itself. took 2 days to find where the money is going and what was te flow. For this I was adviced to make the company and see the same.
+ ##  :arrow_right: * DAY 7,8,9,10
+ Made the company, but then again was told to complete the work of quadratic equation and then I again came back to the old task. This was the time when I realised that I have not made any report of my previous work which took me alot of time to make the new script from scratch. Took less time than before as by now I was quite aware of the scripting language of the frappe the functions and many other things like jinja template. I also took help from the telegram group and then I was able to make that script again. This time I posted the script in GD as i was quite afraid to loose it again.                                                              I then took some leaves for the urgent visit to himachal.
+##  :arrow_right: * DAY 15
 
 
 

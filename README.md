@@ -64,6 +64,22 @@ The task took too many attempt but was not able to meet the requirements such as
  ##  :arrow_right: * DAY 7,8,9,10
  Made the company, but then again was told to complete the work of quadratic equation and then I again came back to the old task. This was the time when I realised that I have not made any report of my previous work which took me alot of time to make the new script from scratch. Took less time than before as by now I was quite aware of the scripting language of the frappe the functions and many other things like jinja template. I also took help from the telegram group and then I was able to make that script again. This time I posted the script in GD as i was quite afraid to loose it again.                                                              I then took some leaves for the urgent visit to himachal.
 ##  :arrow_right: * DAY 15
+After the return there was a little rush for the project of NSPS, So I was asked to make a clear review of the money flow to keep ensuring that the work done was absolutly right and no problem should be there while the presentation. This was the time when other team has to optain the querry from the database and send to our team so as to display the same on frappe in the form of the grade book and this time I gave my time and helpd the team to find the querry but was not able to do so then Prof. Satinder Sir helped then to find the querry.
+##  :arrow_right: * DAY 16,17
+These two day were sent to find the problem in the accounting and then A mail came of Rai sir asking me to amke a company and see the sales quatations and everyhting, He said that it would helpfull for the other workes also and understanding the structure of frappe nmore clearly.
+##  :arrow_right: * DAY 18
+These days were spent on making company and then I was not able to make the accounts setting then Rai sir gave us a video and In that video each and every task were given with a clear detail with the help of the spread sheet.
+##  :arrow_right: * DAY 19 
+Now Abhinav also came to this work and he did it seperately and I did it sepertatly, he made Abhinav chai wala and mine name was SAMSON
+The report work of the PAYMENT GATEWAY was pending so i finished that and send the report to review
+##  :arrow_right: * DAY 20
+Rai sir gave me a work on making a report on ER diagram and this work was given to me as we were not able to make a ER diagrame from the PHP myadmin platform 
+So back home i did this work and presented the report to the team the very next day and uploaded the same on gne2 webpage 
+##  :arrow_right: * DAY 21
+The report which was uploaded to the gne2 webpage was then experimented by me, by using different themes using some bootstrap ( also askedd other GD members to do teh same but the did not find that interesting I guess and then I reminded them to review the ER diagram report that was also not done, Just abhinav did an made some commits on it. During this task I found some good page builders on frappe to work with
+
+
+
 
 
 

@@ -76,7 +76,51 @@ The report work of the PAYMENT GATEWAY was pending so i finished that and send t
 Rai sir gave me a work on making a report on ER diagram and this work was given to me as we were not able to make a ER diagrame from the PHP myadmin platform 
 So back home i did this work and presented the report to the team the very next day and uploaded the same on gne2 webpage 
 ##  :arrow_right: * DAY 21
-The report which was uploaded to the gne2 webpage was then experimented by me, by using different themes using some bootstrap ( also askedd other GD members to do teh same but the did not find that interesting I guess and then I reminded them to review the ER diagram report that was also not done, Just abhinav did an made some commits on it. During this task I found some good page builders on frappe to work with
+The report which was uploaded to the gne2 webpage was then experimented by me, by using different themes using some bootstrap ( also askedd other GD members to do teh same but the did not find that interesting I guess and then I reminded them to review the ER diagram report that was also not done, Just abhinav did an made some commits on it. During this task I found some good page builders on frappe to work with and then tried to make this public and then made it public for a short time till I made some further changes to it
+##  :arrow_right: * DAY 22
+Being doing this work I also triedd to make a NOTICE BOARD frontend page to help lovepreet in his task and then add a custom HTML and css for the same as I reported it in the GD suggesting lovepreet to do the same, the data import work was left to him as he was  doing mongodb at that time 
+##  :arrow_right: * DAY 23,24
+Satinder sir gave Work to other students to upload the data of the Employees through csv, I rendered my help there also in collage and back home also, During this time also attended the presentation given by abhinav on the topic HOW TO CODE FOR 8HRS WITHOUT BEING TIRED. I took the initialtive to make the report on for the same.
+##  :arrow_right: * DAY 25
+I was not able to mkae the report at home due to some important work, so in collage I utilized some of my time to make the reprt and explain the permodoro principle to everyone through it 
+##  :arrow_right: * DAY 26
+Today there was the anouncement for the CMC project and everyone there had a breif meeting for the same with Prof.Satimder Sir earlier also, but this time in computational lab we sat by rai sir and saw all the requirement in the project on the projector and some studnets were selected for the work.
+##  :arrow_right: * DAY 27
+As soon as CMC started the work for it also started and then inital work to make a webform was startedd and in cmc I was given no such task but I was free so tried to render help in all possible ways on GD and in person also like today helped sahil in workflow as we did it before also
+
+##  :arrow_right: * DAY 28,29,30
+Had to go out of station 
+##  :arrow_right: * DAY 1
+Today was the first presenntation on CMC on the dissusion on how will the workflow would be made and what should be the roles of the each user and along with the permissions, the disscussion was I guess friutfull
+##  :arrow_right: * DAY 2
+After this work I went to satinder sir as i was not having any work to do in the cmc, he as reffered that i should make a sales invoice and do the work of the maintainece request, matrial request, quotation request, today finished the material upload and warehose work
+##  :arrow_right: * DAY 3
+toaday I have to again set up the Email setting as the request was not being going through the mail to the person,
+After doing this I made the material request and quotation request, these were done throught the email.
+##  :arrow_right: * DAY 4 
+After showing to satinder sir I again discussed the fee collection work with him and he asked to make a button on the webpage that would help the student to pay the fees directly by doing login to his own frappe profile, During this work I have some issue that were dissused with Rai sir and Satinder sir, the issues were that the students were not the users and users were not the students as they were not uploaded by the correct procedure, the right way would be to first upload the users and then give them the identity of the students 
+##  :arrow_right: * DAY 5
+Today tried that suggestion that was given by Rai sir, but after pending full day I still end up in the confussion state.
+##  :arrow_right: * DAY 6
+Today got a mail from Rai sir mentioning the Non performing assets, this made me little angry, upset as I tried to do my 100% but no one says about that what help they get from my side, no mention no nothing, decided to stop helping anyone and keeping things to my own bussisness. Day not went soo well
+##  :arrow_right: * DAY 7 
+Today took a leave due to health issue 
+##  :arrow_right: * DAY 8
+Today helped sahil in the department sorting work and then Rai sir asked me and abhinav to make a video lecture on the company setup and teach other GD members also
+##  :arrow_right: * DAY 9,10
+Made full youtube video for the same about 2 hours video explaining accounts, sales invoice, company setup, ledger managment everything.
+The video link and the report was send in the GD goup for the review
+##  :arrow_right: * DAY 11
+I asked the students to do the work of accounting from that but they dident care to even see the videos and give the comments on it, this was but thing beside for so much request no one payed the need, we also invided them to listem the live lecture but agian no one came so we have to recode the lectures. The thing that made me angry was if by any chance we failed to do this work then each and every member or the leaders started confronting us about the report and the work details but when the work is done no one payed a attention this was a strange behaviour, or I must say a obvious behaviour
+##  :arrow_right: * DAY 12
+Today I went on to do some other work and changed my destro and again shifted to the windows as  there was some issue after the update the speakers showed some latency and then stopped imediatly.
+##  :arrow_right: * DAY 13
+Placement drive by Chicmic company
+##  :arrow_right: * DAY 14
+Toady was the second round for the drive but that was over at 12 so came back to sdc and after the luch helped komal in finding the data from backend database but was not able to do that, then gave some advice to pranvir on the gradebook task, then helped rohit in his work
+##  :arrow_right: * DAY 15,16
+Drive by ACTURE company, Did cleared the coding round then next day was the design task and personal interview gave that also this was from morning to evening so was unable to attend the SDC task. 
+
 
 
 

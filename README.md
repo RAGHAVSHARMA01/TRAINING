@@ -118,17 +118,17 @@ Today I went on to do some other work and changed my destro and again shifted to
 Placement drive by Chicmic company
 ##  :arrow_right: * DAY 14
 Toady was the second round for the drive but that was over at 12 so came back to sdc and after the luch helped komal in finding the data from backend database but was not able to do that, then gave some advice to pranvir on the gradebook task, then helped rohit in his work
-##  :arrow_right: * DAY 15,16
+##  :arrow_right: * DAY 15
 Drive by ACTURE company, Did cleared the coding round then next day was the design task and personal interview gave that also this was from morning to evening so was unable to attend the SDC task. 
-##  :arrow_right: * DAY 17
+##  :arrow_right: * DAY 16
 Today again we were told to do the company setup task as we made the videos, so it was easy for us to do the things I did some of the work of the quotation and showed to satinder sir, who was sitting in his office he then said for the time being the work was fine.
-##  :arrow_right: * DAY 18
+##  :arrow_right: * 17 november, 2022
 Today I have to go for the important work with my father corrosponding to the passport office so took the leave from the trainning and after back home replied to some of the GD mails that seems to be unreplied
-##  :arrow_right: * DAY 19 
+##  :arrow_right: * 18 november, 2022 
 The day was dusshara and we all went to collage to give our final touches to the, I helped Abhinav to recover his Hard disk data but still some side of his harddisk was already been locked and he also removed his windows permanently.
-##  :arrow_right: * DAY 20 
+##  :arrow_right: * 19 november, 2022 
 Today just replied to mails and attended the preplacement talk at auditorium after that waited for my turn for the test and it was scheduled till the next day
-##  :arrow_right: * DAY 21
+##  :arrow_right: * 20 november, 2022
 Placement test and interview
 
 ##  :arrow_right: * 21 november, 2022

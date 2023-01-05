@@ -120,6 +120,38 @@ Placement drive by Chicmic company
 Toady was the second round for the drive but that was over at 12 so came back to sdc and after the luch helped komal in finding the data from backend database but was not able to do that, then gave some advice to pranvir on the gradebook task, then helped rohit in his work
 ##  :arrow_right: * DAY 15,16
 Drive by ACTURE company, Did cleared the coding round then next day was the design task and personal interview gave that also this was from morning to evening so was unable to attend the SDC task. 
+##  :arrow_right: * DAY 17
+Today again we were told to do the company setup task as we made the videos, so it was easy for us to do the things I did some of the work of the quotation and showed to satinder sir, who was sitting in his office he then said for the time being the work was fine.
+##  :arrow_right: * DAY 18
+Today I have to go for the important work with my father corrosponding to the passport office so took the leave from the trainning and after back home replied to some of the GD mails that seems to be unreplied
+##  :arrow_right: * DAY 19 
+The day was dusshara and we all went to collage to give our final touches to the, I helped Abhinav to recover his Hard disk data but still some side of his harddisk was already been locked and he also removed his windows permanently.
+##  :arrow_right: * DAY 20 
+Today just replied to mails and attended the preplacement talk at auditorium after that waited for my turn for the test and it was scheduled till the next day
+##  :arrow_right: * DAY 21
+Placement test and interview
+
+##  :arrow_right: * 21 november, 2022
+After the unregister emmergency leave for alot of day, I was back in training but What new I got, Got kicked from GD, telegram group and was only responding to the mails and was not given any project. But later was given the PLC task for the retention and then was again welcomed in the GD.
+
+##  :arrow_right: * 22 november,2022
+Today I studied different langugaes for the fron end part for the plc. today also attended the presentation on the gamplan by frappe.
+##  :arrow_right: * 23 november,2022
+Today I showed this all to RAI sir he said find some other lanugages wheather low level or the high level languages for the logic generation in plc. 
+I saw some other language that I was never aware of like Ladder langiage, Structure Text and many more 
+##  :arrow_right: * 24 november,2022
+I today took help from the Kumar to find some IDE for the ladder logic or the structure text, after that the suggested me the software OPENPLC that was very nice to use, but thecomminimty was very small and the place where I can use as help was only Youtube. 
+##  :arrow_right: * 25 november,2022
+Today thought to merge the two things the logic and the frontend together, but this time the frontend was created on the tkinter(python). Today also got the notice the I was selected for the Cognizent, congo, but I would try for more companies
+##  :arrow_right: * 26 november,2022
+Today I learned C# again for the HMI project and tried making some FRAMES for the PLC, They did worked well
+##  :arrow_right: * 27,28 november,2022
+Took leave as I had appointment with doctor on 27th regarding the nose problem and took bed rest for the 28th after that had some medicine and worked on the GD mails
+##  :arrow_right: * Last days of november
+We hade a fair in the collage and sir told us to go and enjoy the fair and look what new thing are going out there, beside this I helped Pranvir and Jasjit in there NSPS work, Sahil to solve and error in the accounts section and rohit in making 3D shapes in the frappe webpage.
+##  :arrow_right: * DAY 1, December
+
+
 
 
 

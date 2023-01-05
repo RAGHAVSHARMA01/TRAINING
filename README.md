@@ -149,8 +149,15 @@ Today I learned C# again for the HMI project and tried making some FRAMES for th
 Took leave as I had appointment with doctor on 27th regarding the nose problem and took bed rest for the 28th after that had some medicine and worked on the GD mails
 ##  :arrow_right: * Last days of november
 We hade a fair in the collage and sir told us to go and enjoy the fair and look what new thing are going out there, beside this I helped Pranvir and Jasjit in there NSPS work, Sahil to solve and error in the accounts section and rohit in making 3D shapes in the frappe webpage.
-##  :arrow_right: * DAY 1, December
-
+##  :arrow_right: * DAY 1, December 2022
+Today Rai sir asssigned the new task to make a code in C# for making a small buld light up and make some switchs on the window frame design and working with it also got some more infer about the working of the Aurdino and this created my some interest in the IOT
+##  :arrow_right: * DAY 2, December 2022
+I made the code for the bulb on off was not working well with the and hence when tday to sir he asked me to debug the code, but for that i have to learn how to debug with other method rather than to use the print satement. Today also was the presetation of the kumar on frappe, it was supposed to be the series of presentations for the start to ending of the frappe.
+##  :arrow_right: * DAY 3, December 2022
+Today Rai sir increased my team from 1 to 3 Rohit and Harshmeet also joined the team and they also gave their input to the project and they also shared some valueable keypoint to be taken care off like audino knowledge of harshmeet was good and rohit has nice coding skills.
+##  :arrow_right: * DAY 4, December 2022
+Today we went on a discussion and finalised that how we will procedre the project and what would be do to make the plc and hmi 
+synchronized together and they we started working on that
 
 
 
